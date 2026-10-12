@@ -1,4 +1,4 @@
-# Day 99 – Java Abstraction
+# Day 98 – Java Abstraction
 
 ## Topic
 Abstraction using Abstract Class
@@ -18,4 +18,4 @@ Practiced abstraction in Java using an abstract class and an abstract method. Th
 Java
 
 ## Learning Progress
-Day 99 of my Java learning journey 🚀
+Day 98 of my Java learning journey 🚀
